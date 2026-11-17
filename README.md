@@ -1,5 +1,5 @@
 # Atlas cartographique du Loir-et-Cher
-
+[![Couverture de l’atlas du Loir-et-Cher](./couverture-atlas.png)](./Atlas_Loir_et_Cher_Complet.pdf)
 [**Consulter l’atlas complet (PDF)**](./Atlas_Loir_et_Cher_Complet.pdf)
 
 ## Présentation
